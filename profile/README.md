@@ -5,10 +5,12 @@
  <img src="https://github.com/user-attachments/assets/3371b313-f971-45b9-b38f-6e4b5eea701a" width=300, height=300>
 
 2024. 06.24 ~ 2024. 07.30 <br>
+
+
+
 </center>
 
-<br>
-<br>
+<br><br><br><br><br>
 
 
 
@@ -16,7 +18,7 @@
 축제 정보 공유 사이트로 FLASK 서버와 통신에 RAG를 통한 챗봇을 제공하며, 캘린더를 통해 한눈에 축제 일정을 살펴볼 수 있으며 
 축제에 대한 찜, 좋아하는 아티스트, 문의글등을 설정하고, 알림을 받아 볼 수 있습니다.
 또한 카카오연동 로그인과 SMTP를 통한 이메일 인증, 카카오 맵을 통한 지도 정보를 제공합니다. 
-
+<br><br><br><br><br>
 # **Features**
 * 카카오 연동 로그인 
 * SMTP를 통한 이메일 인증 
@@ -33,32 +35,33 @@
 <a href="https://minjunkang.notion.site/cf4c4d9b5f9a48b2943ac1b4d734f052?v=965921ef42444c589abb8c7e4aab3d24&pvs=4"> 📒 Notion
 </a> 
 
-# Info
+<br><br><br><br><br>
+
+# 시스템 구조도 및 메뉴트리
 <table>
-  <th><td>시스템 구조도</td><td>메뉴트리</td></th>
+  <tr><th>시스템 구조도</th><th>메뉴트리</th></tr>
   <tr>
   <td><img width=500 src="https://github.com/user-attachments/assets/2f9c6c0f-7736-4920-86bb-49e01235ea84" ></td>
   <td><img width=500 src="https://github.com/user-attachments/assets/4369d705-77c5-491d-90de-4828303d44b3" ></td>
 </tr>
 </table>
 
+<br><br><br><br><br>
+
 # 개발 일정 및 역할 분담
 <table>
-  <th><td>개발 일정</td><td>역할분담</td></th>
+  <tr><th>개발 일정</th><th>역할분담</th></tr>
   <tr>
   <td><img width=500 src="https://github.com/user-attachments/assets/90ca8ee5-9f3e-4734-93f3-5f197098ddf8" ></td>
   <td><img width=500 src="https://github.com/user-attachments/assets/c6f669e5-3c4f-43d4-8828-a288af3e9963" ></td>
 </tr>
 </table>
-![역할분담]()
-![개발일정]()
 
 
-# 역할 분담
 <table>
   <tr>
-    <td>이름</td>
-    <td>한일</td>
+    <th>이름</th>
+    <th>한일</th>
   </tr>
   
   <tr>
@@ -92,4 +95,3 @@
   </tr>
   
 </table>
- </center>
