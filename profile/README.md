@@ -79,7 +79,7 @@
   
   <tr>
     <td>강민준</td>
-    <td>회원 정보 수정 ,  좋아하는 아티스트 목록 ,  내 문의, 내 QnA , 내 기대평 <br> 검색 기능 구현, 찜 목록 UI 구현로그인 구현 회원가 입 UI 구현, 목록 페이지 구현</td>
+    <td>회원 정보 수정 ,  좋아하는 아티스트 목록 ,  내 문의, 내 QnA , 내 기대평 <br> 검색 기능 구현, 찜 목록 UI 구현 로그인 구현 회원가 입 UI 구현, 목록 페이지 구현</td>
   </tr>
 
   
@@ -94,4 +94,67 @@
     <td>주변 축제 추천, 실시간 랭킹 , 티켓 오픈 , 메인페이지 구현 <br>  Header Footer 구현</td>
   </tr>
   
+</table>
+
+
+# 시연 연상
+
+<table>
+
+ <tr>
+   <th colspan=4>메인 페이지</th>
+ </tr> 
+ <tr>
+  <td colspan=2> <img src="https://github.com/user-attachments/assets/5693dc2a-f151-4971-8514-1f7ce065c3cc"> </td>
+</tr>
+<tr>
+ <th colspan=4>목록페이지</th>
+</tr>
+<tr>
+ <td colspan=2><img src="https://github.com/user-attachments/assets/e009ba59-930c-41b7-a059-8bf471daf839"></td>
+ <td colspan=2><img src="https://github.com/user-attachments/assets/678390ff-fbf7-4094-95e5-767f31ceb354"></td>
+</tr>
+      
+  <tr>
+   <th colspan=4>로그인페이지</th>
+ </tr> 
+ <tr>
+  <td> <img src= "https://github.com/user-attachments/assets/dc3d4f56-b56e-4873-9453-6142d8e4172b" width=300 height=150> </td>
+  <td> <img src= "https://github.com/user-attachments/assets/b93a677f-c35a-4982-b461-4f06878f5290" width=300 height=150> </td>
+  <td> <img src= "https://github.com/user-attachments/assets/82888d8a-d1a4-492d-9617-1a2aeee603c8" width=300 height=150> </td>
+</tr>
+
+<tr>
+ <th colspan=4>상세페이지</th>
+</tr>
+<tr>
+ <td colspan=2><img src="" width=300 height=150></td>
+ <td colspan=2><img src="https://github.com/user-attachments/assets/c93c22e5-cd08-47f0-ac86-6d6ad507d96e" width=300 height=150 ></td>
+</tr>
+
+<tr>
+ <th colspan=4>마이페이지</th>
+</tr>
+<tr>
+ <td colspan=2><img src="https://github.com/user-attachments/assets/003accd0-2ade-4aeb-8d82-df92d85f62ce" width=300 height=150></td>
+</tr>
+
+
+<tr>
+ <th colspan=4>챗봇</th>
+</tr>
+<tr>
+ <td colspan=4>
+  <img src="https://github.com/user-attachments/assets/ebd555ae-e8fb-44e4-8f97-e1a82c24b3ff" width=300 height=150>
+</td>
+</tr>
+
+<tr>
+ <td colspan=4 >캘린더 페이지</td>
+</tr>
+<tr >
+ <td colspan=4> <img src="https://github.com/user-attachments/assets/62fd604b-0af0-4054-b457-a5bc73032b64" width=300 height=150></td>
+</tr>
+
+
 </table>
