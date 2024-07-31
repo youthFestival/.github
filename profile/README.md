@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f97bdaa9-33a5-4250-acda-da78991f09c4)<!-- Youth! README -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=egg&color=89CFF0&height=150&section=header" />  
