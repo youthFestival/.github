@@ -1,9 +1,9 @@
-<!-- Youth! README -->
+![image](https://github.com/user-attachments/assets/f97bdaa9-33a5-4250-acda-da78991f09c4)<!-- Youth! README -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=egg&color=89CFF0&height=150&section=header" />  
-  
-  <img src="https://github.com/user-attachments/assets/e766046d-5b2f-4a71-bc5e-b7c9a4d87239" width="500px" height="400px" />
+
+  <img src="https://github.com/user-attachments/assets/701f467c-9168-48da-aca1-fb543036624e" width="500px" height="400px" />
 </div>
 
 <div align="center">
