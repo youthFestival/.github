@@ -1,23 +1,27 @@
-  <div align="center">
+<!-- Youth! README -->
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=egg&color=89CFF0&height=150&section=header" />  
   
-  <h1>Youth</h1>
-  <img src="https://github.com/user-attachments/assets/3371b313-f971-45b9-b38f-6e4b5eea701a" width=300, height=300>
+  <img src="https://github.com/user-attachments/assets/e766046d-5b2f-4a71-bc5e-b7c9a4d87239" width="500px" height="400px" />
+</div>
 
-   <h3> 2024. 06.24 ~ 2024. 07.30 </h3>
+<div align="center">
+         <h1>대학축제 & 페스티벌 정보 확인을 한 플랫폼에서</h1>
+</div>
 
+<br><br>
 
+<div align='center'>
+  <a href="https://minjunkang.notion.site/cf4c4d9b5f9a48b2943ac1b4d734f052?v=965921ef42444c589abb8c7e4aab3d24&pvs=4">
+      <img src="https://img.shields.io/badge/Notion-project_doc-blue?&style=for-the-badge&logo=notion">
+  </a>
+</div>
 
-  </div>
+<br><br>
 
-  <br><br><br><br><br>
-
-
-
-
+## Project Description
 매해마다 찾아오는 대학축제 그리고 페스티벌 시즌! 즐기는 사람들을 위한 축제 정보 제공 웹 사이트 Youth!입니다. <br>다양한 니즈(needs)와 음악 취향 그리고 현장 분위기만큼 정보를 확실하게 얻는 것이 더욱 중요해진 요즘. Youth!로 쉽게 정보를 접해보세요.
-
-  <br><br><br><br><br>
 
   
   # **Features**
@@ -30,13 +34,17 @@
   * 달력을 통한 축제 일정 정보 제공
   
 
-  # Docs 
+## Development
+| 항목 | 내용 | 항목 | 내용 |
+| --- | --- | --- | --- |
+| OS                            | <img src="https://img.shields.io/badge/-Windows-0052CC?style=flat-square&logo=vscode&logoColor=white"/> <img src="https://img.shields.io/badge/-Mac OS-417598?style=flat-square&logo=macos&logoColor=white"/> |  Server Framework  | <img src="https://img.shields.io/badge/-Spring Boot-green?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-646B52?style=flat-square&logo=flask&logoColor=white"/> |                                     
+| IDE                           | <img src="https://img.shields.io/badge/-Visual Studio Code-0078F0?style=flat-square&logo=vscode&logoColor=white"/> <img src="https://img.shields.io/badge/-InteliJ IDEA-0B2343?style=flat-square&logo=inteliji&logoColor=white"/> <img src="https://img.shields.io/badge/-Pycharm-64BC4B?style=flat-square&logo=pycharm&logoColor=white"/>| Server Test  | <img src="https://img.shields.io/badge/-POSTMAN-red?style=flat-square&logo=postman&logoColor=white"/> |
+| Language                      | <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-JAVA-navy?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-46C3D0?style=flat-square&logo=pyhon&logoColor=white"/> | DB  | <img src="https://img.shields.io/badge/-MySQL-382923?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/-Workbench-134881?style=flat-square&logo=workbench&logoColor=white"/> |
+| Cloud  | <img src="https://img.shields.io/badge/-AWS_EC2-FF6C2C?style=flat-square&logo=AWS_EC2&logoColor=white"/>| Collaboration | <a href="https://minjunkang.notion.site/HOME-262bcd755b234c53bae4f01a0288b501?pvs=4"><img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white"/>|
+| React version                 | <img src="https://img.shields.io/badge/-create react app '3.1.8'-blue?style=flat-square&logo=react&logoColor=white"/> |
 
-  <br>
-  <a href="https://minjunkang.notion.site/cf4c4d9b5f9a48b2943ac1b4d734f052?v=965921ef42444c589abb8c7e4aab3d24&pvs=4"> 📒 Notion
-  </a> 
+<br>
 
-  <br><br><br><br><br>
 
   # 시스템 구조도 및 메뉴트리
   <table>
